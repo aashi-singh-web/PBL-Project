@@ -9,16 +9,16 @@ This platform consolidates services under one umbrella, offering a user-friendly
 - Connect tourists with local businesses for unique, immersive experiences.
 - Promote eco-friendly and sustainable tourism practices.
 - Integrate real-time geolocation, booking, and payment systems.
-- Provide small businesses an online presence to attract global tourists.
+- Provide small businesses with an online presence to attract global tourists.
 
 ## Features
-- **Visibility for Local Businesses**: Enhanced digital presence for small enterprises.
-- **Affordable Pricing**: Connects tourists to cost-effective alternatives.
-- **Sustainable Tourism**: Promotes eco-friendly options and community engagement.
-- **Real-Time Booking**: Simplifies interactions with local providers.
-- **Multilingual Support**: Overcomes language barriers for international travelers.
-- **Cultural Immersion**: Highlights local festivals, events, and traditions.
-- **Currency Conversion**: Ensures seamless cross-border transactions.
+- **Visibility for Local Businesses**: Increased online visibility for smaller businesses.
+- **Cost-Effective Pricing**: Show tourists cheaper options.
+- **Alternative Forms of Sustainability**: Helps create ecotourism and community engagement.
+- **Instant Booking**: Easy communication with local service providers.
+- **Language Support**: Avoiding language and cultural barriers for international travelers.
+- **Cultural Experience**: Use for local festivals, events, and traditions.
+- **Automatic Currency Conversation**: Acts as a conversion for cross-border transactions.
 
 ## Technology Stack
 - **Frontend**: React.js or Vue.js
@@ -30,16 +30,16 @@ This platform consolidates services under one umbrella, offering a user-friendly
 ## Development Phases
 1. **Research & Requirements Gathering**: Surveys and feedback from tourists and local businesses.
 2. **Design Phase**: UI/UX designs and database schema creation.
-3. **Development Phase**: Building the frontend, backend, and integrating APIs.
+3. **Development Phase**: Building the front and backend and integrating APIs.
 4. **Testing Phase**: Unit, integration, user, performance, and security testing.
 5. **Launch Phase**: Deployment and marketing.
 6. **Maintenance & Updates**: Regular updates based on user feedback.
 
 ## Literature Survey
-Localink learns from platforms like Airbnb, TripAdvisor, and Like a Local while addressing gaps such as:
+Localink learns lessons from platforms like Airbnb, TripAdvisor, Like a Local, while addressing gaps such as:
 - Limited support for smaller local businesses.
 - Lack of integrated eco-friendly features.
-- Absence of seamless cultural immersion tools.
+The lack of smooth, tool-based cultural immersion.
 
 ## Conclusion
 Localink aims to revolutionize tourism by connecting travelers to authentic local services while empowering small businesses. It envisions a sustainable, inclusive, and immersive travel ecosystem.
