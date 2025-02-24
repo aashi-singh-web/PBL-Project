@@ -50,12 +50,6 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        
-        <div className="mt-8 border-t border-gray-200 pt-8">
-          <p className="text-center text-gray-400 text-sm">
-            © {new Date().getFullYear()} Pathwise. Created by Aashi and Lakshita, Manipal University Jaipur.
-          </p>
-        </div>
       </div>
     </footer>
   );
